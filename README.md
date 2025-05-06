@@ -4,4 +4,4 @@ Mon projet sur mon portofolio.
 
 ## Apperçu
 
-![capture d'écran](./Image/Capture.png).
+![capture d'écran](./image/Capture.png).
